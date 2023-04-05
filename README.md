@@ -70,6 +70,13 @@ The Report Comprises Two (2) Pages and Fourteen(14) Insights were created, namel
 13. Income/Cost by Year
 14. Top (10) Product by Income
 
+## Visualization:
+
+![](Profitability_Page1.png)
+
+![](Profitability_Page2.png)
+
+
 You can interact with the Report [here] (https://app.powerbi.com/view?r=eyJrIjoiYzI2ZTE2YTctNGJiYS00MTY2LWFjYzEtMjlhMGJmMWFhNDVhIiwidCI6IjJlYWMyZjE5LTE1MWUtNGQzOC05NGUzLTlkYzg0YjYxNGJkNyIsImMiOjZ9)
 
 ## Conclusion/Recommendation:
