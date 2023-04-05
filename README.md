@@ -53,5 +53,23 @@ Thereafter a Consolidates Sales table was created using the Primary /Foreign Key
 
 Finally the Clean “Sales” Data was loaded into PowerBI for Annalysis.
 
+## Analysis and Visualization:
+The Report Comprises Two (2) Pages and Fourteen(14) Insights were created, namely:
+1. Profit: 
+2. Income by Region
+3. Profit by Channel
+4. Profit by Country
+5. Profit by Year
+6. Cost
+7. Income
+8 .Number of Customers
+9. Number of Reseller
+10. Number of Order
+11. Income by Product Sub Category Top (5)
+12. Income by Product
+13. Income/Cost by Year
+14. Top (10) Product by Income
+
+You can interact with the Report here (https://app.powerbi.com/view?r=eyJrIjoiYzI2ZTE2YTctNGJiYS00MTY2LWFjYzEtMjlhMGJmMWFhNDVhIiwidCI6IjJlYWMyZjE5LTE1MWUtNGQzOC05NGUzLTlkYzg0YjYxNGJkNyIsImMiOjZ9)
 
 
