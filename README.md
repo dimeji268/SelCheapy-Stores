@@ -33,9 +33,25 @@ Reseller(Dirty)
 
 Reseller(Clean)
 
-![](Reseller_Table_cleaned.png)
+![](Reseller_Cleaned.png)
 
 Also  CustomerID Column  in the Customer Table(Primary Key) with value [Not Applicable] was normalized to AW00010000 and other Columns with [Not Applicable] were
 normalized to “Online Order”.
+
+Customer(Dirty)
+
+![](Customer_Table_Dirty.png) 
+
+Customer(Clean)
+
+![](Customer_Table_Cleaned.png) 
+
+Thereafter a Consolidates Sales table was created using the Primary /Foreign Key relationship to join all the Seven Tables using PowerBI query editor to transform the Dataset. Unnecessary Columns were removed.
+
+![](Model_After_Joining.png)
+
+
+Finally the Clean “Sales” Data was loaded into PowerBI for Annalysis.
+
 
 
