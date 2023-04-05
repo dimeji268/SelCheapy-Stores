@@ -70,6 +70,15 @@ The Report Comprises Two (2) Pages and Fourteen(14) Insights were created, namel
 13. Income/Cost by Year
 14. Top (10) Product by Income
 
-You can interact with the Report here (https://app.powerbi.com/view?r=eyJrIjoiYzI2ZTE2YTctNGJiYS00MTY2LWFjYzEtMjlhMGJmMWFhNDVhIiwidCI6IjJlYWMyZjE5LTE1MWUtNGQzOC05NGUzLTlkYzg0YjYxNGJkNyIsImMiOjZ9)
+You can interact with the Report [here] (https://app.powerbi.com/view?r=eyJrIjoiYzI2ZTE2YTctNGJiYS00MTY2LWFjYzEtMjlhMGJmMWFhNDVhIiwidCI6IjJlYWMyZjE5LTE1MWUtNGQzOC05NGUzLTlkYzg0YjYxNGJkNyIsImMiOjZ9)
+
+## Conclusion/Recommendation:
+For the Period under review, **SelCheapy** generated a whopping $13M in Profit with 96% of it coming from Customers that ordered Online.4% was from Resellers.
+
+United States with over $4M, generated the highest Profit while Canada with Slightly over $1M generated the least.
+
+The highest Selling Products by Category is Bike, especially the Mountain 200, Black 38.
+
+The recommendation is **SelCheapy** should enhance the Online Order Process and wind down the Reseller as the bulk of their Profit is coming through the Online order platform.
 
 
